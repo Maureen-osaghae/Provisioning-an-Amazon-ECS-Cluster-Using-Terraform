@@ -1,6 +1,6 @@
 # Provisioning an Amazon ECS Cluster Using Terraform
 
-A hands-on lab walkthrough for provisioning a fully containerised, auto-scaling Amazon ECS Cluster into an existing VPC using **Terraform** — including CloudWatch logging and Auto Scaling Group policies.
+A hands-on lab walkthrough for provisioning a fully containerised, auto-scaling Amazon ECS Cluster into an existing VPC using **Terraform** including CloudWatch logging and Auto Scaling Group policies.
 
 ---
 
